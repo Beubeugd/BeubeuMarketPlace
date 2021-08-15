@@ -1,0 +1,74 @@
+.a {
+color: beige;
+font-family: arial;
+text-decoration: underline;
+
+}
+
+.b {
+
+color: beige;
+font-family: arial;
+text-decoration: underline;
+}
+
+body {
+	background-color:gray;
+
+}
+
+
+.d {
+
+font-family: arial;
+height: 20px;
+color: beige;
+}
+
+.e {
+
+	font-family: arial;
+	font-size: 25px;
+	color: beige;
+
+
+}
+
+a {
+
+	display: inline-block;
+	width: 200px;
+	padding: 10px;
+	background-color: gray;
+	color: beige;
+	text-align: center;
+	margin: 10px;
+	text-decoration: none;
+	border: solid;
+font-family: arial;
+}
+
+
+.kl {
+
+	font-family: arial;
+	font-size: 20px;
+	color: beige;
+	text-align: center;
+}
+
+.kll {
+
+	font-family: arial;
+	font-size: 25px;
+	color: beige;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.op {
+
+	font-family: arial;
+	color: beige;
+	size: 10px;
+}
